@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hillb\\source\\repos\\CourseworkforCE\\CourseworkforCE\\CourseworkforCE.csproj": {}
+    "C:\\Users\\hillb\\source\\repos\\Cstore\\CourseworkforCE\\CourseworkforCE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hillb\\source\\repos\\CourseworkforCE\\CourseworkforCE\\CourseworkforCE.csproj": {
+    "C:\\Users\\hillb\\source\\repos\\Cstore\\CourseworkforCE\\CourseworkforCE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hillb\\source\\repos\\CourseworkforCE\\CourseworkforCE\\CourseworkforCE.csproj",
+        "projectUniqueName": "C:\\Users\\hillb\\source\\repos\\Cstore\\CourseworkforCE\\CourseworkforCE.csproj",
         "projectName": "CourseworkforCE",
-        "projectPath": "C:\\Users\\hillb\\source\\repos\\CourseworkforCE\\CourseworkforCE\\CourseworkforCE.csproj",
+        "projectPath": "C:\\Users\\hillb\\source\\repos\\Cstore\\CourseworkforCE\\CourseworkforCE.csproj",
         "packagesPath": "C:\\Users\\hillb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hillb\\source\\repos\\CourseworkforCE\\CourseworkforCE\\obj\\",
+        "outputPath": "C:\\Users\\hillb\\source\\repos\\Cstore\\CourseworkforCE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
